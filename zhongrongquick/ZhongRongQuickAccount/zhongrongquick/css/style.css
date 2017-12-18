@@ -1,0 +1,16 @@
+.box{
+    width:100%;
+    max-width: 800px;
+    margin : 10px auto;
+}
+h1{
+    text-align: center;
+    padding:10px;
+}
+.form-group{
+    width:100%;
+}
+.btn{
+    margin:0 auto;
+    display: block;
+}
